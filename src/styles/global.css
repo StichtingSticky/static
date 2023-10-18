@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ::selection {
+    @apply text-white bg-pink/50;
+  }
+}
+
+@tailwind variants;

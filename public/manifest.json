@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Stichting Sticky",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fffff6",
+  "theme_color": "#e46ca7",
+  "description": "Stichting Sticky is een organisatie die zich bezig houdt met het organiseren van activiteiten ten behoeve van Studievereniging Sticky."
+}
